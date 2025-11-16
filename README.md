@@ -1,6 +1,8 @@
 ## Hi there 👋
 
-<div align="center"> <img height="137px" src="https://github-readme-stats.vercel.app/api?username=qfpqhyl&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /> </div>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A177F7&center=true&vCenter=true&width=940&lines=Welcome+to+my+GitHub+Profile!;Full+Stack+Developer+%7C+Open+Source+Enthusiast;Always+learning+new+things" alt="Typing SVG" />
+</div>
 
 
 <!--
