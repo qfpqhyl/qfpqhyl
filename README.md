@@ -1,21 +1,42 @@
-## Hi there 👋
+### 你好 👋，我是 qfpqhyl
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A177F7&center=true&vCenter=true&width=940&lines=Welcome+to+my+GitHub+Profile!;Full+Stack+Developer+%7C+Open+Source+Enthusiast;Always+learning+new+things" alt="Typing SVG" />
-</div>
+🎓 我是**西安电子科技大学**的一名研究生（Class of 2028）。
 
+🤖 目前专注于 **强化学习 (Reinforcement Learning)** 领域的研究。
 
-<!--
-**qfpqhyl/qfpqhyl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 同时也热衷于做各种有意思的开发项目。
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🚀 探索更多
+
+🌟 **欢迎访问我的个人博客：** [**https://qfpqhyl.github.io/**](https://qfpqhyl.github.io/)
+*(在这里我会分享关于 RL 算法笔记、开发心得和技术教程)*
+
+---
+
+### 📝 近期博客 (Recent Posts)
+
+* 📄 [**如何在服务器上部署 V2Ray**](https://qfpqhyl.github.io/2025/11/11/how-to-install-v2ray-on-server/)
+* 📄 [强化学习研究心得 (TODO)](https://qfpqhyl.github.io/)
+* ➡️ [查看更多博客文章...](https://qfpqhyl.github.io/archives)
+
+### 🏗️ 精选项目 (Selected Projects)
+
+| 项目名称 | 简介 | 技术栈 |
+| :--- | :--- | :--- |
+| **[CodeRunner](https://github.com/qfpqhyl/CodeRunner)** | 轻量级在线代码运行与调用工具 | `Python` `React` `Ant Design Pro` |
+| **[WebMonitor](https://github.com/qfpqhyl/WebMonitor)** | 网页内容变动监控通知系统 | `Python` `React` `MUI` |
+
+---
+
+#### 📈 GitHub 数据统计
+
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=qfpqhyl&show_icons=true&theme=radical&hide=stars" alt="qfpqhyl's stats" />
+</p>
+
+#### 🔗 联系方式
+
+[<img src="https://img.shields.io/badge/Blog-000000?style=for-the-badge&logo=github&logoColor=white" />](https://qfpqhyl.github.io/)
+[<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:tianbosong2674@outlook.com)
