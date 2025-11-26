@@ -33,7 +33,7 @@
 #### 📈 GitHub 数据统计
 
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=qfpqhyl&show_icons=true&theme=radical&hide=stars" alt="qfpqhyl's stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=qfpqhyl&theme=radical&hide_border=true" alt="qfpqhyl's streak" />
 </p>
 
 #### 🔗 联系方式
