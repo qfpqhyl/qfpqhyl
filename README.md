@@ -17,8 +17,8 @@
 
 ### 📝 近期博客 (Recent Posts)
 
-* 📄 [**如何在服务器上部署 V2Ray**](https://qfpqhyl.github.io/2025/11/11/how-to-install-v2ray-on-server/)
-* 📄 [强化学习研究心得 (TODO)](https://qfpqhyl.github.io/)
+* 📄 [如何在服务器上部署管理 V2Ray](https://qfpqhyl.github.io/2025/11/11/how-to-install-v2ray-on-server/)
+* 📄 [周记第一篇：重新出发](https://qfpqhyl.github.io/2025/11/17/week1/)
 * ➡️ [查看更多博客文章...](https://qfpqhyl.github.io/)
 
 ### 🏗️ 精选项目 (Selected Projects)
