@@ -10,7 +10,7 @@
 
 #### 🚀 探索更多
 
-🌟 **欢迎访问我的个人博客：** [**https://blog.qfpqhyl.top**](https://blog.qfpqhyl.top)
+🌟 **欢迎访问我的个人博客：** [**https://qfpqhyl.top**](https://qfpqhyl.top/)
 *(在这里我会分享生活随笔、开发心得和技术教程)*
 
 ---
