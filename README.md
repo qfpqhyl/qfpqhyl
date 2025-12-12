@@ -31,11 +31,9 @@
 
 #### 📈 GitHub 数据统计
 
-<p align="left">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=qfpqhyl&theme=radical&hide_border=true" alt="qfpqhyl's streak" />
-</p>
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=qfpqhyl&theme=radical)
 
 #### 🔗 联系方式
 
-[<img src="https://img.shields.io/badge/Blog-000000?style=for-the-badge&logo=github&logoColor=white" />](https://qfpqhyl.github.io/)
-[<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:tianbosong2674@outlook.com)
+[<img src="https://img.shields.io/badge/Blog-000000?style=for-the-badge&logo=github&logoColor=white" />](https://blog.qfpqhyl.top)
+[<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:qfpqhyl@gmail.com)
